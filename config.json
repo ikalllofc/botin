@@ -4,7 +4,7 @@
     "limitCount": 1000,
     "gamewaktu": 60,
     "botName": "Ikal Bot",
-    "pathImg": "https://telegra.ph/file/b5240d9c13a89b3cf2c91.jpg",
+    "pathImg": "./media/Itsuki.jpg",
     "apikey": "YOUR_APIKEY",
     "fake": "XINZ-BOTZ VERIFIED",
     "sesidInsta": "default",
